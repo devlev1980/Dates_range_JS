@@ -1,0 +1,25 @@
+.inputs{
+    margin: 0 auto;
+    outline: 1px solid red;
+    max-width: 300px;
+    text-align: center;
+    padding: 1rem;
+}
+input#startDate,input#endDate{
+    display: block;
+    padding: 0.3rem;
+    margin: 10px 0 0 18%;
+    border: 1px solid #666;
+    font-size: 18px;
+}
+button{
+    background-color: rgb(57, 44, 235);
+    padding: 0.5rem;
+    font-size: 18px;
+    margin-top: 20px;
+    color: #fff;
+    border-radius: 5px;
+}
+div#output{
+    margin-top: 20px;
+}
